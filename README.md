@@ -19,7 +19,7 @@ I finished work on Article Preview Component
 ![](./screenshot.jpg)
 
 ### Links
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-using-html-css-js-cZCRrlTFg)
 - Live Site URL: [Vercel](https://article-preview-componet.vercel.app/)
 
 ## My Process
